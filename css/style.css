@@ -1,0 +1,36 @@
+body{
+background-color: #EDF6E5;
+
+
+
+
+}
+hr{
+
+border-style: none;
+border-top: dotted;
+border-width: 5px;
+color: grey;
+width: 8%;
+}
+
+img{
+height: 150;
+width: 160;
+
+}
+
+h1{
+color: black;
+font-size: 50px;
+font-style: normal;
+}
+
+table,th,td{
+
+  border: solid;
+  border-collapse: collapse;
+}
+
+
+ 

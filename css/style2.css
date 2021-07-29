@@ -1,0 +1,35 @@
+
+
+body{
+  background-color: #99BFBF;
+
+}
+
+hr{
+
+  border-style: none;
+  border-top: double;
+  border-width: 5px;
+  color: grey;
+  width: 100%;
+
+}
+
+
+button{
+
+align-items: center;
+background-color: yellow;
+height: 20px;
+width: 100%;
+}
+
+
+#first{
+  background-color: green;
+}
+
+#second{
+  background-color: indigo;
+  margin-left: 90%;
+}
